@@ -1,18 +1,16 @@
 ---
-layout: work
-title: Work
-slug: /work
+layout: about
+title: About
+slug: /about
 items:
-  - title: My Interest 1
-    image:
-      src: /assets/img/work/water.png
-      alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: My Interest 2
-    image:
-      src: /assets/img/work/sand.png
-      alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  - title: Introduction
+    description: My name is Hyerin Yu. I was born in Seoul on February 10th, 2001 and now I live in Anyang. I am majoring in software at Sungkyunkwan University.
+  - title: Skills
+    description: I usually use C language, but I can use C++, Python, Java, Unity, etc.. Besides that, I can handle Photoshop and Premiere Pro a little bit.
+  - title: Education
+    description: 
+  - title: Achievements  and  Certifications
+    description: Records  any  awards,  certifications,  or  honors  you  have received
 ---
 
 This is an example of a "Work" page, displaying your work, your interests, your projects.
