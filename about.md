@@ -2,6 +2,7 @@
 layout: about
 title: About
 slug: /about
+---
 
 __1. Introduction__
 \
@@ -18,8 +19,6 @@ Provides details about your degrees, schools, majors, academic accomplishments, 
 __4. Achievements  and  Certifications__
 \
 Records  any  awards,  certifications,  or  honors  you  have received
-
----
 
 This is an example of a "Work" page, displaying your work, your interests, your projects.
 <br />
