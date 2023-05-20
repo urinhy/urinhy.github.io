@@ -6,5 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Hello! I'm Hyerin. Welcome to my personal portfolio website.
+  Hello! I'm Hyerin.
+</p>
+
+<p>
+  Welcome to my personal portfolio website.
 </p>
