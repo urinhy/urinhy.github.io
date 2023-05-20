@@ -1,11 +1,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
+title: urinhy's github
 description: >- # this means to ignore newlines until "baseurl:"
   Bay is a minimal Jekyll Theme.
 baseurl: "/bay" # the subpath of the site
-url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
+url: "https://urinhy.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
@@ -23,8 +23,6 @@ footer:
       value: yusung3rd@gmail.com
       link: mailto:yusung3rd@gmail.com
   follow:
-    - name: Instagram
-      link: https://www.instagram.com/urinhy
     - name: GitHub
       link: http://github.com/urinhy
 
