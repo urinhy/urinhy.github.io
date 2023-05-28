@@ -21,6 +21,9 @@ During the winter vacation, I traveled to Tokyo, the capital of Japan.
 3. [Day 3](#day-3)
 4. [Day 4](#day-4)
 
+<br />
+<br />
+
 #### DAY 1
 **Roppongi,** I didn't expect much about Tokyo Tower, but thanks to the pretty lighting, the night view was so pretty that I took a lot of pictures.
 
