@@ -14,11 +14,11 @@ I usually use C language, but I can use C++, Python, Java, Unity, etc.. Besides 
 
 __3. Education__
 \
-Provides details about your degrees, schools, majors, academic accomplishments, etc.the courses you have taken so far would also be a good addition
+I am in the third year of software department at Sungkyunkwan University. I took classes such as Data Structures, System Program, and Introduction to Computer Architectures. And this semester, I am taking classes such as Operating Systems and Introduction to Database.
 
 __4. Achievements  and  Certifications__
 \
-Records  any  awards,  certifications,  or  honors  you  have received
+I have a Japanese certification of JLPT N2 level.
 
 <br />
 <br />
